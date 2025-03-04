@@ -1,6 +1,6 @@
 import requests
 from time import sleep
-BASE_URL: str = "https://maroon-echidna-796942.hostingersite.com/api"
+BASE_URL: str = "7631575904:AAFLVuxLIY5nu2cUevp_FhKNCchS0R7yBbw"
 
 class CarParkTool:
 
